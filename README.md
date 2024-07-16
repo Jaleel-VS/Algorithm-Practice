@@ -2,6 +2,9 @@
 
 Removing the rust as I dive back into coding interviews. Also helps my logical reasoning 😆
 
+Language used:
+- C# 12 
+
 ## Schedule
 
 
